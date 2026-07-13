@@ -25,7 +25,7 @@ attributes — and lets you render every pixel with your own components.
 
 ## For AI coding agents
 
-Drop [`SKILL.md`](./SKILL.md) into your AI editor / Claude Code workspace and it learns how to use this library. Tells the agent when to reach for it, the install + canonical pattern, the public API, and the gotchas that are easy to miss.
+Drop [`SKILL.md`](./SKILL.md) into your AI editor / coding agent workspace and it learns how to use this library. Tells the agent when to reach for it, the install + canonical pattern, the public API, and the gotchas that are easy to miss.
 
 ## Install
 
